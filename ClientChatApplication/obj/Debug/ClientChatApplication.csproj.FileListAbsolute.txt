@@ -9,3 +9,15 @@ D:\Development\_SPIKE\ClientChatApplication\ClientChatApplication\obj\Debug\Clie
 D:\Development\_SPIKE\ClientChatApplication\ClientChatApplication\obj\Debug\ClientChatApplication.csproj.GenerateResource.Cache
 D:\Development\_SPIKE\ClientChatApplication\ClientChatApplication\obj\Debug\ClientChatApplication.exe
 D:\Development\_SPIKE\ClientChatApplication\ClientChatApplication\obj\Debug\ClientChatApplication.pdb
+C:\Users\Glenn.CEBU\ClientChatApplication\ClientChatApplication\bin\Debug\ClientChatApplication.exe
+C:\Users\Glenn.CEBU\ClientChatApplication\ClientChatApplication\bin\Debug\ClientChatApplication.pdb
+C:\Users\Glenn.CEBU\ClientChatApplication\ClientChatApplication\bin\Debug\ChatClientLibrary.dll
+C:\Users\Glenn.CEBU\ClientChatApplication\ClientChatApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Glenn.CEBU\ClientChatApplication\ClientChatApplication\bin\Debug\ChatClientLibrary.pdb
+C:\Users\Glenn.CEBU\ClientChatApplication\ClientChatApplication\obj\Debug\ClientChatApplication.csprojResolveAssemblyReference.cache
+C:\Users\Glenn.CEBU\ClientChatApplication\ClientChatApplication\obj\Debug\ClientChatApplication.MainChatForm.resources
+C:\Users\Glenn.CEBU\ClientChatApplication\ClientChatApplication\obj\Debug\ClientChatApplication.Properties.Resources.resources
+C:\Users\Glenn.CEBU\ClientChatApplication\ClientChatApplication\obj\Debug\ClientChatApplication.csproj.GenerateResource.Cache
+C:\Users\Glenn.CEBU\ClientChatApplication\ClientChatApplication\obj\Debug\ClientChatApplication.exe
+C:\Users\Glenn.CEBU\ClientChatApplication\ClientChatApplication\obj\Debug\ClientChatApplication.pdb
+C:\Users\Glenn.CEBU\ClientChatApplication\ClientChatApplication\obj\Debug\ClientChatApplication.Notifier.resources
